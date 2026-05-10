@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/anmone/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Anmone](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/anmone/) |
+| **Get License** | [Commercial Licensing for Anmone](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/anmone/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 89314e399b49a94f62f5e320a50c0c363bd5fdb9
+> অচিন দেশে মনের কোণে প্রেমের আগুন জ্বলে
+> নীল কুয়াশায় তোমার ছায়া আমার সাথে চলে
+> হারিয়ে যাওয়ার এই তো সময়, হাতটা ধরো এসে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
